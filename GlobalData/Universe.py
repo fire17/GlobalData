@@ -2,7 +2,7 @@
 
 # from Globals import *
 #from GlobalData import *
-from Globals import *
+from GlobalData.Globals import *
 
 import os, time
 
