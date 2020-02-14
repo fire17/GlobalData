@@ -72,7 +72,7 @@ os.environ['SPOTIPY_CLIENT_ID'] = 'd419f4fe1de143c0ab7561734322fbe2'
 os.environ['SPOTIPY_CLIENT_SECRET'] = 'a5738d2f12a44336b74153cc96a1946e'
 os.environ['SPOTIPY_REDIRECT_URI'] = 'http://google.com/'
 
-gd = GlobalData()
+gd = GD.GlobalData()
 
 WithSwitchBee = False
 polyB = []
