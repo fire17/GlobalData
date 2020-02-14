@@ -9,7 +9,7 @@ from threading import Thread
 import os.path as PATH
 import glob
 
-import cv2
+#import cv2
 import random
 import numpy as np
 import scipy
