@@ -7,4 +7,4 @@
 #from GlobalData.Globals import *
 #from GlobalData.Universe import *
 
-from . import GlobalData, Globals, Universe
+from GlobalData import GlobalData, Globals, Universe
