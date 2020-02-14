@@ -15,7 +15,6 @@ setup(
   install_requires=[            # I get to this in a second
           'glob3',
           'dill',
-          'opencv-python',
           'Pillow',
       ],
   classifiers=[
